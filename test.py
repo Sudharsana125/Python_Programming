@@ -2,7 +2,6 @@ rows = int(input("Enter number of rows: "))
 i = rows
 while i >= 1:
     j = 1
-
     while j <= i:
         print("*", end=" ")
         j = j + 1
