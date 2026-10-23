@@ -1,3 +1,4 @@
+
 rows = int(input("Enter number of rows: "))
 i = rows
 while i >= 1:
