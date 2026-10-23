@@ -1,5 +1,4 @@
 import math
-
 p = 17
 q = 11
 
